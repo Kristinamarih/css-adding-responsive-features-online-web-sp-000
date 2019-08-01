@@ -4,7 +4,6 @@
   }
   #social {
     position: absolute;
-    width-top: 82px;
-    width-right: 4px;
+    width: auto;
   }
 }
